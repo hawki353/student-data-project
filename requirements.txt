@@ -3,4 +3,6 @@ pandas
 gunicorn
 matplotlib
 seaborn
+flask_cors
+
 
