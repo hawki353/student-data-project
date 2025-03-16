@@ -2,4 +2,5 @@ flask
 pandas
 gunicorn
 matplotlib
+seaborn
 
