@@ -1,8 +1,9 @@
 flask
+flask_cors
 pandas
-gunicorn
 matplotlib
 seaborn
-flask_cors
+openpyxl
+
 
 
